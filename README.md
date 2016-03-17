@@ -3,7 +3,7 @@
 This is a utility to help make sense of the cryptic HRESULT error codes commonly
 used by Microsoft Windows APIs and programs interfacing with them. It is based
 on the information available on
-[wikipedia](https://en.wikipedia.org/wiki/HRESULT) and
+[Wikipedia](https://en.wikipedia.org/wiki/HRESULT) and
 [MSDN](https://msdn.microsoft.com/en-us/library/cc231198.aspx).
 
 # Usage
