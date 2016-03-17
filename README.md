@@ -30,7 +30,7 @@ will produce the output
      27-17 FACILITY: The source of the error = 7 (FACILITY_WIN32: Win32 Error codes)
      16-01 CODE: The error code              = 5 (Access is denied. (0x5))
 
-# Compling
+# Compiling
 
 The only dependencies other than standard Windows libraries and headers are make
 and a c complier (only gcc has been tested). On MSYS2 or Cygwin, the
