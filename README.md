@@ -14,7 +14,7 @@ resulting analysis. For example
 
     ./parse_hresult 0x80070005
 
-Will produce the output
+will produce the output
 
      HRESULT = Access is denied. (0x80070005) (-2147024891)
         8    0    0    7    0    0    0    5
