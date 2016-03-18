@@ -24,7 +24,7 @@ will produce the output
 
      32    S: Severity (status)              = 1 (failure)
      31    R: Reserved (actual severity)     = 0 (normal)
-     30    C: Customer (defined by)          = 0 (customer)
+     30    C: Customer (defined by)          = 0 (Microsoft)
      29    N: NT mapped status value         = 0
      28    X: Is message ID?                 = 0
      27-17 FACILITY: The source of the error = 7 (FACILITY_WIN32: Win32 Error codes)

@@ -68,7 +68,7 @@ void parse_hresult(uint32_t hresult)
            i + 1, bits[i], bits[i] ? "severe" : "normal");
     i--;
     printf("%02d    C: Customer (defined by)          = %d (%s)\n",
-           i + 1, bits[i], bits[i] ? "microsoft" : "customer");
+           i + 1, bits[i], bits[i] ? "customer" : "Microsoft");
     i--;
     printf("%02d    N: NT mapped status value         = %d\n",
            i + 1,  bits[i]);
